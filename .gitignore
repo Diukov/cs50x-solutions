@@ -52,6 +52,13 @@ Pipfile.lock
 *.egg-info/
 *.sqlite3
 
+# JS
+package-lock.json
+package.json
+yarn-error.log
+yarn-debug.log
+npm-debug.log
+
 # Flask dev server files
 instance/
 *.db
